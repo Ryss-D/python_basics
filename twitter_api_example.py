@@ -17,6 +17,7 @@ while True:
     print('Remaining', headers['x-rate-limit-remaining'])
     js = json.loads(data)
     print(json.dumps(js, indent=4))
+    
 
     for u in js['users']:
         print(u['screen_name'])

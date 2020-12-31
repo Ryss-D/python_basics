@@ -17,6 +17,7 @@ def augment(url, parameters):
     oauth_request.sign_request(oauth.OAuthSignatureMethod_HMAC_SHA1(),
                                consumer, token)
     return oauth_request.to_url()
+    
 
 
 def test_me():

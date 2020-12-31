@@ -9,3 +9,4 @@ fhand = urllib.request.urlopen('http://data.pr4e.org/romeo.txt')#we can also rea
 for line in fhand:
     print(line.decode().strip())
  #then we have a url to use like a file
+ 

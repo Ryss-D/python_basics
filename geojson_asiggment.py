@@ -15,7 +15,7 @@ serviceurl = 'http://py4e-data.dr-chuck.net/json?'
 #         data = uh.read().decode()
 #         #print('Retriving', len(data), 'characters')
 
-#         try:
+#         try :
 #             js = json.loads(data)
 #         except:
 #             js = None

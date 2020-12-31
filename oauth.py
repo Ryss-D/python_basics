@@ -608,3 +608,5 @@ class OAuthSignatureMethod_PLAINTEXT(OAuthSignatureMethod):
         key, raw = self.build_signature_base_string(oauth_request, consumer,
                                                     token)
         return key
+
+        

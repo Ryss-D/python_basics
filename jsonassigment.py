@@ -14,3 +14,4 @@ for dic in js["comments"]:
      count += int(dic["count"])
 
 print(count)
+

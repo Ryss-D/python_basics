@@ -20,3 +20,4 @@ for item in lst:
     count += int(item.text)
 
 print(count)
+

@@ -17,7 +17,7 @@ while True:
     print('Retrivied', len(data), 'characters')
     
     try: 
-        js = json.loads(data)
+        js = json.loads(data) 
     except:
         js = None
     
