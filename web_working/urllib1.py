@@ -10,3 +10,4 @@ for line in fhand:
     print(line.decode().strip())
  #then we have a url to use like a file
  
+ 
