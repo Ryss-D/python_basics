@@ -8,3 +8,6 @@ def list_avg(sequence: list) -> float:
 #iff we are talking about of a return type method inside a class ieg
 ##Perro class and we want to say that the returning is of this same typo
 ## we should use method(arg) -> "Perro"
+
+##__name__ global variable make reference to the name of the file, if we call
+##__name__ from we are running the code 
