@@ -46,3 +46,5 @@ def get_admin_password():
 print(get_admin_password())
 
 ##id function give us the addess in memory for a objectr
+
+##if we user @object.method() wer are passing the func to the specific method
