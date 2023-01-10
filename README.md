@@ -1,4 +1,3 @@
-# python
+# python\
 
-##New things added
-I am editing the README file. Adding some more details about the project description.
+Path using and learning python
